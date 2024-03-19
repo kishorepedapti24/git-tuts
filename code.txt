@@ -1,1 +1,3 @@
+hi kishore
+starting class today
 print{"kishore + entry subject"}
